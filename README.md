@@ -1,6 +1,6 @@
 # Deliverable3
 IS 2545 - DELIVERABLE 3: 
-A e-commerce website testing with the BDD
+An e-commerce website testing with the BDD
 [Nanxun Xie  Nax4@pitt.edu]
 
 I write all my test codes in OnlineShopTest.java and BaseTest.java, and push all the related stuffs to my GitHub. 
